@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1544357122 source:c:\users\pavlo\documents\program languages\cpp\startup\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<windows.h>
+
