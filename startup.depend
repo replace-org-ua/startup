@@ -1,7 +1,10 @@
 # depslib dependency file v1.0
-1544357122 source:c:\users\pavlo\documents\program languages\cpp\startup\main.cpp
+1544430897 source:c:\users\pavlo\documents\program languages\cpp\startup\main.cpp
+	<windows.h>
 	<iostream>
 	<iomanip>
 	<string>
-	<windows.h>
+	<fstream>
+	<ctime>
+	<sstream>
 
